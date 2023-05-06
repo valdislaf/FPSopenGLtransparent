@@ -1,4 +1,4 @@
-/home/valdislaf/CLionProjects/textopenglfps/cmake-build-debug/CMakeFiles/glad.dir
-/home/valdislaf/CLionProjects/textopenglfps/cmake-build-debug/CMakeFiles/textopenglfps.dir
-/home/valdislaf/CLionProjects/textopenglfps/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/valdislaf/CLionProjects/textopenglfps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aldes/CLionProjects/cubefps/cmake-build-debug/CMakeFiles/glad.dir
+C:/Users/aldes/CLionProjects/cubefps/cmake-build-debug/CMakeFiles/cubefps.dir
+C:/Users/aldes/CLionProjects/cubefps/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aldes/CLionProjects/cubefps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

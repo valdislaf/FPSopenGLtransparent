@@ -1,6 +1,6 @@
 
 cmake_minimum_required(VERSION 3.22.3)
-set(name "textopenglfps")
+set(name "cubefps")
 project(${name})
 if(UNIX AND NOT APPLE)
     # Здесь указываем команды, которые должны быть выполнены только на Linux.

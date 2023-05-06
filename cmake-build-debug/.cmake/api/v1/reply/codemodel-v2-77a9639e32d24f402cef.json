@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22.3"
@@ -28,7 +28,7 @@
 					[
 						0
 					],
-					"name" : "textopenglfps",
+					"name" : "cubefps",
 					"targetIndexes" : 
 					[
 						0,
@@ -40,16 +40,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "glad::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-glad-Debug-77686ae9485fd7324014.json",
-					"name" : "glad",
+					"id" : "cubefps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubefps-Debug-5e406c60981ca055e32b.json",
+					"name" : "cubefps",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "textopenglfps::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-textopenglfps-Debug-cf0d71da3a35762b665e.json",
-					"name" : "textopenglfps",
+					"id" : "glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glad-Debug-533c0bce9d249587dc6f.json",
+					"name" : "glad",
 					"projectIndex" : 0
 				}
 			]
@@ -58,12 +58,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/valdislaf/CLionProjects/textopenglfps/cmake-build-debug",
-		"source" : "/home/valdislaf/CLionProjects/textopenglfps"
+		"build" : "C:/Users/aldes/CLionProjects/cubefps/cmake-build-debug",
+		"source" : "C:/Users/aldes/CLionProjects/cubefps"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 3
 	}
 }
